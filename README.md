@@ -37,5 +37,5 @@ When you load up your browser and navigate to localhost/battlestation it won't w
 
 sudo /opt/lampp/lampp start
 
-### Good to go
+### Fin
 You should be good to go now, go to your browser and check out the challenges. 
